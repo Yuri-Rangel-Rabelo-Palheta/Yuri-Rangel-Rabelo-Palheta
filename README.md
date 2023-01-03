@@ -3,7 +3,7 @@
   
   <p><h1>  Yuri Rangel </h1></p>
   <p><h2>Engenheiro de Computação, Especialista em Computação Forense, programador e pentester. </h2></p>
-<p>- 🔭 Eu atualmente trabalho no setor público, no campus UFPA de Salinópolis.</p>
+<p>- 🔭 Eu atualmente trabalho no setor público, na UFRA de Belém.</p>
   
 <p>- 🌱 Atualmente estou revisando meus conhecimentos e aprendendo sobre Next.js, React.js, javascript e python.</p>
 <p>- 📫 Pode entrar em contato comigo por meio do meu email: mavericyuri@gmail.com.</p>
