@@ -7,7 +7,7 @@
   
 <p>- 🌱 Atualmente estou revisando meus conhecimentos e aprendendo sobre Next.js, React.js, javascript e python.</p>
 <p>- 📫 Pode entrar em contato comigo por meio do meu email: mavericyuri@gmail.com.</p>
-  <p>- ⚡ P=NP </p>
+  <p>- ⚡ P=NP. É, sou otimista ;). </p>
 
   
 
